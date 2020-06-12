@@ -1,2 +1,0 @@
-# aupurbo.github.io
- aupurbo

@@ -1,0 +1,45 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="e-pharmecy.com" resolutions="1x" timestamp="1591976523149">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="301385673" ref="contact-us:store:bill:account:index"/>
+    <file name="contact-us.css" crc="4158400628" ref="contact-us"/>
+    <file name="store.css" crc="4158400628" ref="store"/>
+    <file name="bill.css" crc="4158400628" ref="bill"/>
+    <file name="account.css" crc="4158400628" ref="account"/>
+    <file name="index.css" crc="455086279" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:store:account:bill:contact-us"/>
+    <file name="museutils.js" crc="183364071" ref="index:store:account:bill:contact-us"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:store:account:bill:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:store:account:bill:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:store:account:bill:contact-us"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1.png" crc="3811012181" ref="index"/>
+    <file name="u151-4.png" crc="4226894635" ref="index:store:account:bill:contact-us"/>
+    <file name="u154-4.png" crc="399116956" ref="index:store:account:bill:contact-us"/>
+    <file name="u168-18.png" crc="4225947053" ref="index:store:account:bill:contact-us"/>
+    <file name="u173-5.png" crc="4161950714" ref="index"/>
+    <file name="u175-5.png" crc="48007185" ref="index"/>
+    <file name="aupurbo.jpg" crc="4279752670" ref="index"/>
+    <file name="capture.jpg" crc="282403851" ref="index"/>
+    <file name="80752379_3206865872664068_1279864898037219328_o-crop-u210.jpg" crc="4055664581" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="79901630_2458955614318512_2184462616338890752_n-crop-u238.jpg" crc="503009862" ref="index"/>
+    <file name="80226848_766645943799504_3707557563957510144_n-crop-u247.jpg" crc="4230374041" ref="index"/>
+    <file name="78722760_1431062483726063_684352121780305920_n-crop-u256.jpg" crc="4015309801" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u201-5.png" crc="135878573" ref="index"/>
+  </folder>
+  <file name="index.html" crc="145646579" seo="true" mt="1591976518540" redirect="true"/>
+  <file name="store.html" crc="4122272880" seo="true" mt="1591974878030" redirect="true"/>
+  <file name="account.html" crc="4273302589" seo="true" mt="1591974878030" redirect="true"/>
+  <file name="bill.html" crc="365042374" seo="true" mt="1591974878030" redirect="true"/>
+  <file name="contact-us.html" crc="488321020" seo="true" mt="1591974878030" redirect="true"/>
+</manifest>
